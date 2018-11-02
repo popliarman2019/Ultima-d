@@ -1,6 +1,62 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52384:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 52560000
+It is 0:0 on day 1 of the year 101.
+Trammel is in day 6 of its 9 day phase.
+Felucca is in day 3 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52395:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 52574400
+It is 0:0 on day 11 of the year 101.
+Trammel is in day 7 of its 9 day phase.
+Felucca is in day 13 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52398:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 52560015
+It is 0:15 on day 1 of the year 101.
+Trammel is in day 6 of its 9 day phase.
+Felucca is in day 3 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52448:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 52588830
+It is 0:30 on day 21 of the year 101.
+Trammel is in day 8 of its 9 day phase.
+Felucca is in day 9 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52455:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 134049640
+It is 0:40 on day 16 of the year 256.
+Trammel is in day 4 of its 9 day phase.
+Felucca is in day 5 of its 14 day phase.
+Process finished with exit code 0
+
 /Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52832:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
 Enter the World Time: 23672179
 It is 0:19 on day 15 of the year 46.
 Trammel is in day 6 of its 9 day phase.
+Felucca is in day 4 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52468:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 12960
+It is 0:0 on day 10 of the year 1.
+Trammel is in day 1 of its 9 day phase.
+Felucca is in day 10 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52471:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 20160
+It is 0:0 on day 15 of the year 1.
+Trammel is in day 6 of its 9 day phase.
+Felucca is in day 1 of its 14 day phase.
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52475:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Ultima'd/out/production/Ultima'd Main
+Enter the World Time: 125280
+It is 0:0 on day 88 of the year 1.
+Trammel is in day 7 of its 9 day phase.
 Felucca is in day 4 of its 14 day phase.
 Process finished with exit code 0
